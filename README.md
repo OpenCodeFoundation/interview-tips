@@ -1,6 +1,10 @@
 # Awesome interview-tips
 
 > A curated list of lists of technical interview questions.
+Please read the [contribution guidelines](contributing.md) if you want to contribute.
+## CV Template
+- Ready CV(Curriculum Vitae) Template for Software Engineer. [CV](https://github.com/OpenCodeFoundation/interview-tips/tree/master/sample-cv).
+- [Awesome CV](https://github.com/posquit0/Awesome-CV) is LaTeX template for a CV(Curriculum Vitae).
 
 ### Table of Contents
 
