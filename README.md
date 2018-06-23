@@ -1,4 +1,4 @@
-# Awesome interview-tips
+# Technical interview Tips
 
 > A curated list of lists of technical interview questions.
 Please read the [contribution guidelines](contributing.md) if you want to contribute.
